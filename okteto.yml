@@ -1,4 +1,5 @@
-name: api
+name: helloworld
+autocreate: true
 command: ["bash"]
 forward:
   - 8080:8080
